@@ -4,7 +4,7 @@
 - and then assign some scores based on how much skills found on CV
 
 
-### Library_neede
+### Library_needed
 - pyPDF2
 - nltk
 
