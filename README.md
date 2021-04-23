@@ -8,4 +8,7 @@
 - pyPDF2
 - nltk
 
+### Limitations
+- Some CV scored as zero as different types of encoding
+- These CV should be checked manually
 
